@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-displaying_list_with_error_handling/static/css/main.5ebc5dac.css",
-    "main.js": "/react-displaying_list_with_error_handling/static/js/main.d4212830.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-displaying_list_with_error_handling/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/react-displaying_list_with_error_handling/index.html",
-    "main.5ebc5dac.css.map": "/react-displaying_list_with_error_handling/static/css/main.5ebc5dac.css.map",
-    "main.d4212830.js.map": "/react-displaying_list_with_error_handling/static/js/main.d4212830.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-displaying_list_with_error_handling/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/React-Displaying_Lidt_With_Error_Handling/static/css/main.5ebc5dac.css",
+    "main.js": "/React-Displaying_Lidt_With_Error_Handling/static/js/main.e393372c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-Displaying_Lidt_With_Error_Handling/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/React-Displaying_Lidt_With_Error_Handling/index.html",
+    "main.5ebc5dac.css.map": "/React-Displaying_Lidt_With_Error_Handling/static/css/main.5ebc5dac.css.map",
+    "main.e393372c.js.map": "/React-Displaying_Lidt_With_Error_Handling/static/js/main.e393372c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-Displaying_Lidt_With_Error_Handling/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ebc5dac.css",
-    "static/js/main.d4212830.js"
+    "static/js/main.e393372c.js"
   ]
 }
